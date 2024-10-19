@@ -1,1 +1,1 @@
-# Capstone-hoax-detection-app
+# Capstone-Project-hoax-detection-app
